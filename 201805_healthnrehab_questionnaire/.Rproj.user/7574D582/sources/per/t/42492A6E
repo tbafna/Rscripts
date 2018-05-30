@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527262989035.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1199616238",
+    "id" : "42492A6E",
+    "lastKnownWriteTime" : 1527669629,
+    "last_content_update" : 1527669629147,
+    "path" : "C:/DTU/Rscripts/201805_healthnrehab_questionnaire/1.r",
+    "project_path" : "1.r",
+    "properties" : {
+        "cursorPosition" : "64,0",
+        "scrollLine" : "30",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
